@@ -68,7 +68,6 @@ public class Program {
         for (File folder : ls) {
             System.out.println(folder);
         }
-
         sc.close();
     }
 }
